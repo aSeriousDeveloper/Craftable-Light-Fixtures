@@ -10,7 +10,7 @@ Each lamp requires 2 electrical skill, a screwdriver and hammer, and the followi
 - light bulb (white)
 
 ## Install
-Coming Soon
+[Subscribe via the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2790006091).
 
 ## ToDo
 - Maybe look at the dissassembly recipe
