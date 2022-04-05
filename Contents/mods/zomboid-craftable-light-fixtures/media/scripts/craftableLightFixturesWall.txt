@@ -1,0 +1,108 @@
+module CraftableLightFixtures {
+	imports {
+        Base
+    }
+
+	recipe Craft Pink Wall Lamp {
+		keep Hammer/BallPeenHammer,
+		keep [Recipe.GetItemTypes.Screwdriver],
+
+		LightBulb,
+		ElectronicsScrap,
+		ElectricWire,
+		Aluminum,
+		
+		Category:Furniture,
+		Result:Moveables.lighting_indoor_01_16,
+		SkillRequired:Electricity=2,
+		Sound:Screwdriver,
+		Time:150.0,
+	}
+
+	recipe Craft Dark Wall Lamp {
+		keep [Recipe.GetItemTypes.Screwdriver],
+		keep Hammer/BallPeenHammer,
+		
+		LightBulb,
+		ElectronicsScrap,
+		ElectricWire,
+		Aluminum,
+		
+		
+		Category:Furniture,
+		Result:Moveables.lighting_indoor_01_20,
+		SkillRequired:Electricity=2,
+		Sound:Screwdriver,
+		Time:150.0,
+	}
+
+	recipe Craft Round Outdoor Lamp {
+		keep [Recipe.GetItemTypes.Screwdriver],
+		keep Hammer/BallPeenHammer,
+		
+		LightBulb,
+		ElectronicsScrap,
+		ElectricWire,
+		Aluminum,
+		
+		
+		Category:Furniture,
+		Result:Moveables.lighting_outdoor_01_24,
+		SkillRequired:Electricity=2,
+		Sound:Screwdriver,
+		Time:150.0,
+	}
+
+	recipe Craft Antique Outdoor Lamp {
+		keep [Recipe.GetItemTypes.Screwdriver],
+		keep Hammer/BallPeenHammer,
+		
+		LightBulb,
+		ElectronicsScrap,
+		ElectricWire,
+		Aluminum,
+		
+		
+		Category:Furniture,
+		Result:Moveables.lighting_outdoor_01_26,
+		SkillRequired:Electricity=2,
+		Sound:Screwdriver,
+		Time:150.0,
+	}
+
+	recipe Craft Modern Outdoor Lamp {
+		keep [Recipe.GetItemTypes.Screwdriver],
+		keep Hammer/BallPeenHammer,
+		
+		LightBulb,
+		ElectronicsScrap,
+		ElectricWire,
+		Aluminum,
+		
+		
+		Category:Furniture,
+		Result:Moveables.lighting_outdoor_01_32,
+		SkillRequired:Electricity=2,
+		Sound:Screwdriver,
+		Time:150.0,
+	}
+
+	recipe Craft Oval Outdoor Lamp {
+		keep [Recipe.GetItemTypes.Screwdriver],
+		keep Hammer/BallPeenHammer,
+		
+		LightBulb,
+		ElectronicsScrap,
+		ElectricWire,
+		Aluminum,
+		
+		
+		Category:Furniture,
+		Result:Moveables.lighting_outdoor_01_40,
+		SkillRequired:Electricity=2,
+		Sound:Screwdriver,
+		Time:150.0,
+	}
+
+}
+	

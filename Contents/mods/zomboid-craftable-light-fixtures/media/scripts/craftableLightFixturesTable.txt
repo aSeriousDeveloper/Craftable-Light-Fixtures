@@ -1,0 +1,103 @@
+module CraftableLightFixtures {
+	imports {
+        Base
+    }
+
+	recipe Craft Striped Lamp {
+		keep Hammer/BallPeenHammer,
+		keep [Recipe.GetItemTypes.Screwdriver],
+
+		LightBulb,
+		ElectronicsScrap,
+		ElectricWire,
+		Aluminum,
+		
+		Category:Furniture,
+		Result:Moveables.lighting_indoor_01_32,
+		SkillRequired:Electricity=2,
+		Sound:Screwdriver,
+		Time:150.0,
+	}
+
+	recipe Craft Black Lamp {
+		keep Hammer/BallPeenHammer,
+		keep [Recipe.GetItemTypes.Screwdriver],
+
+		LightBulb,
+		ElectronicsScrap,
+		ElectricWire,
+		Aluminum,
+		
+		Category:Furniture,
+		Result:Moveables.lighting_indoor_01_33,
+		SkillRequired:Electricity=2,
+		Sound:Screwdriver,
+		Time:150.0,
+	}
+
+	recipe Craft Red Lamp {
+		keep Hammer/BallPeenHammer,
+		keep [Recipe.GetItemTypes.Screwdriver],
+		
+		LightBulb,
+		ElectronicsScrap,
+		ElectricWire,
+		Aluminum,
+		
+		Category:Furniture,
+		Result:Moveables.lighting_indoor_01_34,
+		SkillRequired:Electricity=2,
+		Sound:Screwdriver,
+		Time:150.0,
+	}
+
+	recipe Craft Gray Lamp {
+		keep Hammer/BallPeenHammer,
+		keep [Recipe.GetItemTypes.Screwdriver],
+		
+		LightBulb,
+		ElectronicsScrap,
+		ElectricWire,
+		Aluminum,
+		
+		Category:Furniture,
+		Result:Moveables.lighting_indoor_01_35,
+		SkillRequired:Electricity=2,
+		Sound:Screwdriver,
+		Time:150.0,
+	}
+
+	recipe Craft Blue Lamp {
+		keep Hammer/BallPeenHammer,
+		keep [Recipe.GetItemTypes.Screwdriver],
+		
+		LightBulb,
+		ElectronicsScrap,
+		ElectricWire,
+		Aluminum,
+		
+		Category:Furniture,
+		Result:Moveables.lighting_indoor_01_36,
+		SkillRequired:Electricity=2,
+		Sound:Screwdriver,
+		Time:150.0,
+	}
+
+	recipe Craft White Lamp {
+		keep Hammer/BallPeenHammer,
+		keep [Recipe.GetItemTypes.Screwdriver],
+		
+		LightBulb,
+		ElectronicsScrap,
+		ElectricWire,
+		Aluminum,
+		
+		Category:Furniture,
+		Result:Moveables.lighting_indoor_01_37,
+		SkillRequired:Electricity=2,
+		Sound:Screwdriver,
+		Time:150.0,
+	}
+
+}
+	

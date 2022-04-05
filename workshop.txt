@@ -1,0 +1,6 @@
+version=1
+id=
+title=Craftable Light Fixtures
+description=Make Light Fixtures Craftable.
+tags=Build 41;Building;Items;Realistic
+visibility=public
