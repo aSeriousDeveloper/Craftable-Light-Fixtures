@@ -1,5 +1,6 @@
 name=Craftable Light Fixtures
 poster=poster.png
+icon=icon.png
 id=craftable-lights-robboinnit
 description=Make Light Fixtures Craftable
 url=https://github.com/aSeriousDeveloper/zomboid-craftable-Light-Fixtures
