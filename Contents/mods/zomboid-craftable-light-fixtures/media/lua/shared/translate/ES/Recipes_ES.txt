@@ -1,0 +1,14 @@
+Recipes_ES = {
+	Recipe_Craft_Striped_Lamp = "Fabricar Lámpara de Rayas",
+	Recipe_Craft_Black_Lamp = "Fabricar Lámpara Negra",
+	Recipe_Craft_Red_Lamp = "Fabricar Lámpara Roja",
+	Recipe_Craft_Gray_Lamp = "Fabricar Lámpara Gris",
+	Recipe_Craft_Blue_Lamp = "Fabricar Lámpara Azul",
+	Recipe_Craft_White_Lamp = "Fabricar Lámpara Blanca",
+	Recipe_Craft_Pink_Wall_Lamp = "Fabricar Lámpara de Pared Rosa",
+	Recipe_Craft_Dark_Wall_Lamp = "Fabricar Lámpara de Pared Oscura",
+	Recipe_Craft_Round_Outdoor_Lamp = "Fabricar Lámpara de Exterior Redonda",
+	Recipe_Craft_Antique_Outdoor_Lamp = "Fabricar Lámpara de Exterior Antigua",
+	Recipe_Craft_Modern_Outdoor_Lamp = "Fabricar Lámpara de Exterior Moderna",
+	Recipe_Craft_Oval_Outdoor_Lamp = "Fabricar Lámpara de Exterior Ovalada",
+}
